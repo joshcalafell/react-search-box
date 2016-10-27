@@ -1,0 +1,39 @@
+body {
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 10px;
+  background-color: #333;
+  background-image: url("http://rabbitfighter.net/wp-content/uploads/2016/01/starwars2.jpg");
+  color: #fff;
+  font-size: 1.5em;
+}
+h1 {
+  text-align: center;
+  font-size: 2em;
+  color: #ff3;
+  font-family: 'Bungee Outline';
+}
+pre {
+  font-size: 0.8em;
+  padding: 20px;
+}
+#hl {
+  background-color: #39f;
+  color: #fff;
+}
+#text {
+  display: none;
+}
+#searchbox {
+  margin-top: -50px;
+  float: right;
+  display: inline-block;
+  color: #000;
+}
+#results {
+  margin-top: -20px;
+  float: right;
+  display: inline-block;
+  color: #ff3;
+  font-family: 'Oswald';
+}

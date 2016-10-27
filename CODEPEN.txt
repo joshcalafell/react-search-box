@@ -1,0 +1,3 @@
+A Pen created at CodePen.io. You can find this one at http://codepen.io/rabbitfighter81/pen/yezEeY.
+
+ A simple self-updating React SearchBox Input Component that updates whenever text is changed in the box. It uses regex pattern matching to find the search query in the text, and re-renders the entire DOM any time the input is changed based on a diff engine that React has that uses a virtual DOM to speed up the process of DOM construction. 
